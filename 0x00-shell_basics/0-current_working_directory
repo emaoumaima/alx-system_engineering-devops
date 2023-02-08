@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cd "$(dirname "$(pwd)")")"/"$(basename "$(pwd)")"
+pwd
