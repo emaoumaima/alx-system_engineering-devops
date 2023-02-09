@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $groups
+printf "$USER is part of %s\n" $(groups)
