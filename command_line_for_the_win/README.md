@@ -17,14 +17,14 @@ Welcome to the CMD CHALLENGE solutions repository for enhancing Bash command lin
 
 ### SFTP File Transfer
 
-To showcase the successful completion of the challenges, screenshots have been provided in the `/root/cmd-challenge-solutions/screenshots/` directory. The images are also available on GitHub for easy reference.
+To showcase the successful completion of the challenges, screenshots have been provided in the `/root/cmd-challenge-solutions/` directory. The images are also available on GitHub for easy reference.
 
 ### Screenshots
 
 Include screenshots of the completed levels:
 
-- [Task 0](https://github.com/emaoumaima/cmd-challenge-solutions/blob/main/0-first_9_tasks.PNG)
-- [Task 1](https://github.com/emaoumaima/cmd-challenge-solutions/blob/main/1-next_9_tasks.PNG)
-- [Task 2](https://github.com/emaoumaima/cmd-challenge-solutions/blob/main/2-next_9_tasks.PNG)
+- [Task 0](https://github.com/emaoumaima/cmd-challenge-solutions/main/0-first_9_tasks.PNG)
+- [Task 1](https://github.com/emaoumaima/cmd-challenge-solutions/main/1-next_9_tasks.PNG)
+- [Task 2](https://github.com/emaoumaima/cmd-challenge-solutions/main/2-next_9_tasks.PNG)
 
 
