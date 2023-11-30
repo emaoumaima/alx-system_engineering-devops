@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Listens on localhost 98
+nc -l localhost 98
